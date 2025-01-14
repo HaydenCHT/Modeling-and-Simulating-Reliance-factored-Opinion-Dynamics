@@ -1,4 +1,5 @@
 # Responsive-Web-Design
 
-- self-design demo projects in freecodecamp
-- currently at requirement-meeting level, planning to come back after completing other courses
+- The source codes used to obtain experimental data for my team's final year project, "Modeling and Simulating Reliance-factored Opinion Dynamics"
+- Last Update: Nov 2024
+- Further develop directions: Performance optimization, better utilization of efficient methods
