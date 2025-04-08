@@ -6,10 +6,10 @@ from googleapiclient.discovery import build
 
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
-creds = service_account.Credentials.from_service_account_file("ftec-fyp-12179dba9b02.json", scopes=SCOPES)
+creds = service_account.Credentials.from_service_account_file("XXX.json", scopes=SCOPES)
 service = build("sheets", "v4", credentials=creds)
 
-SPREADSHEET_ID = "1zC6ruoRmHufsibeYG-ntlM9103nFovsl4sPLISaO9gg"
+SPREADSHEET_ID = "XXX"
 
 
 def export_to_sheets(df, sheet):
