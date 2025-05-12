@@ -1,4 +1,4 @@
-# Responsive-Web-Design
+# Final Year Project 2024-25
 
 The source codes used to obtain experimental data for my team's final year project, "Modeling and Simulating Reliance-factored Opinion Dynamics"
 
